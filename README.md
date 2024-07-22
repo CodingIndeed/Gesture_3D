@@ -41,3 +41,9 @@ This innovative system allows users to manipulate the orientation and scale of a
 - Ensure compatibility of the Python and library versions with MediaPipe.
 - The application uses the ZeroMQ library for communication between the hand tracking and 3D rendering scripts.
 - Optimize hand detection performance by adjusting the lighting and background for the webcam and MediaPipe.
+
+## Contributions
+Contributions to this project are welcome! If you have improvements or bug fixes, please feel free to fork the repository and submit a pull request. Your contributions can help make this project even better.
+
+## License
+This project is open-sourced under the MIT License. See the LICENSE file for more information.
